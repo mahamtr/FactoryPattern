@@ -1,0 +1,12 @@
+C:\Users\Maai Ham\RiderProjects\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.deps.json
+C:\Users\Maai Ham\RiderProjects\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.dll
+C:\Users\Maai Ham\RiderProjects\FactoryPattern\FactoryPattern\bin\Debug\net5.0\ref\FactoryPattern.dll
+C:\Users\Maai Ham\RiderProjects\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.pdb
+C:\Users\Maai Ham\RiderProjects\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\Maai Ham\RiderProjects\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maai Ham\RiderProjects\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Maai Ham\RiderProjects\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\Maai Ham\RiderProjects\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Maai Ham\RiderProjects\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.dll
+C:\Users\Maai Ham\RiderProjects\FactoryPattern\FactoryPattern\obj\Debug\net5.0\ref\FactoryPattern.dll
+C:\Users\Maai Ham\RiderProjects\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.pdb

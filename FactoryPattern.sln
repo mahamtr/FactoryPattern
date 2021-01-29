@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{911F4FEE-6205-4B26-BB1F-5B8A7CD6C9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern.specs", "FactoryPattern.specs\FactoryPattern.specs.csproj", "{B81737C5-30BF-46EF-AAA1-53433EEAB3C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911F4FEE-6205-4B26-BB1F-5B8A7CD6C9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911F4FEE-6205-4B26-BB1F-5B8A7CD6C9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911F4FEE-6205-4B26-BB1F-5B8A7CD6C9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911F4FEE-6205-4B26-BB1F-5B8A7CD6C9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81737C5-30BF-46EF-AAA1-53433EEAB3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81737C5-30BF-46EF-AAA1-53433EEAB3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81737C5-30BF-46EF-AAA1-53433EEAB3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81737C5-30BF-46EF-AAA1-53433EEAB3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
